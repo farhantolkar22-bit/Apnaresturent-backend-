@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "mock_user_admin",
+    "name": "Apna Admin",
+    "email": "admin@apnarestaurant.com",
+    "password": "$2a$10$cwuLf4Szeuq2gClpREB5AeWGL4dBR9IJP3RWCL9ZZQAUulC2zQFSO",
+    "role": "admin",
+    "createdAt": "2026-06-14T12:59:21.243Z"
+  }
+]

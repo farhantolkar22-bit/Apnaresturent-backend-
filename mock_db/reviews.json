@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "mock_rev_0",
+    "name": "Aarav Sharma",
+    "rating": 5,
+    "comment": "The Chicken Apna Special Noodles were absolutely stellar! The chicken was melt-in-the-mouth, and the spices were perfectly balanced. Highly recommend this place for family dinners.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150",
+    "isFeatured": true
+  },
+  {
+    "_id": "mock_rev_1",
+    "name": "Priya Patel",
+    "rating": 5,
+    "comment": "Apna Restaurant has a beautiful vibe! The Chicken Fry Lollipops were crisp and juicy, and ordering online was a breeze.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150",
+    "isFeatured": true
+  },
+  {
+    "_id": "mock_rev_2",
+    "name": "Rohan Malhotra",
+    "rating": 4,
+    "comment": "Excellent taste and very quick delivery! Order tracking was accurate, and the Triple Fried Rice was divine. Definitely ordering again.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150",
+    "isFeatured": true
+  }
+]
