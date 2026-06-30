@@ -60,7 +60,7 @@ const menuItems = [
     price: 80,
     halfPrice: 40,
     category: "soup",
-    image: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1548940740-204726a1d93f?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -70,7 +70,87 @@ const menuItems = [
     price: 130,
     halfPrice: 70,
     category: "soup",
+    image: "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Chicken Hot & Sour Soup",
+    description: "Classic spicy, sour, and thick broth loaded with chicken, mushrooms, bamboo shoots, and tofu.",
+    price: 110,
+    halfPrice: 60,
+    category: "soup",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Veg Hot & Sour Soup",
+    description: "A warming and spicy-sour soup filled with mixed vegetables, mushrooms, and green onions.",
+    price: 90,
+    halfPrice: 50,
+    category: "soup",
+    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Chicken Sweet Corn Soup",
+    description: "A comforting, creamy, and sweet soup containing fresh sweet corn kernels and tender shredded chicken.",
+    price: 110,
+    halfPrice: 60,
+    category: "soup",
+    image: "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Veg Sweet Corn Soup",
+    description: "Mild and creamy soup prepared with tender sweet corn mash, fresh vegetables, and white pepper.",
+    price: 90,
+    halfPrice: 50,
+    category: "soup",
     image: "https://images.unsplash.com/photo-1607532941433-304659e8198a?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Chicken Wonton Soup",
+    description: "Delicious hand-folded chicken wontons floating in a piping hot, savory clear chicken broth with baby bok choy.",
+    price: 140,
+    halfPrice: 80,
+    category: "soup",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Veg Wonton Soup",
+    description: "Steamed vegetable wontons served in a seasoned clear broth garnished with toasted sesame oil.",
+    price: 120,
+    halfPrice: 70,
+    category: "soup",
+    image: "https://images.unsplash.com/photo-1548940740-204726a1d93f?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Chicken Lemon Coriander Soup",
+    description: "A healthy, zesty soup featuring chicken chunks, fresh coriander, and a strong squeeze of lemon.",
+    price: 110,
+    halfPrice: 60,
+    category: "soup",
+    image: "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Veg Lemon Coriander Soup",
+    description: "Clear vegetable broth infused with lemon juice, fresh coriander leaves, ginger, and garlic.",
+    price: 95,
+    halfPrice: 55,
+    category: "soup",
+    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -92,7 +172,7 @@ const menuItems = [
     price: 150,
     halfPrice: 80,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -112,7 +192,7 @@ const menuItems = [
     price: 200,
     halfPrice: 120,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1608897013039-887f21d8c804?auto=format&fit=crop&q=80&w=600",
     isSignature: true,
     isAvailable: true
   },
@@ -122,7 +202,7 @@ const menuItems = [
     price: 240,
     halfPrice: 140,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -132,7 +212,7 @@ const menuItems = [
     price: 280,
     halfPrice: 150,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -152,7 +232,7 @@ const menuItems = [
     price: 280,
     halfPrice: 180,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1623653387945-2fd25214f8fc?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -162,7 +242,7 @@ const menuItems = [
     price: 280,
     halfPrice: 180,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
     isSignature: true,
     isAvailable: true
   },
@@ -172,7 +252,7 @@ const menuItems = [
     price: 180,
     halfPrice: 100,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1536392139656-3ee2fbead42a?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -200,7 +280,7 @@ const menuItems = [
     price: 140,
     halfPrice: 70,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -210,7 +290,7 @@ const menuItems = [
     price: 150,
     halfPrice: 80,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1608897013039-887f21d8c804?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -220,7 +300,7 @@ const menuItems = [
     price: 180,
     halfPrice: 100,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1623653387945-2fd25214f8fc?auto=format&fit=crop&q=80&w=600",
     isSignature: true,
     isAvailable: true
   },
@@ -230,7 +310,7 @@ const menuItems = [
     price: 220,
     halfPrice: 120,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -260,7 +340,7 @@ const menuItems = [
     price: 220,
     halfPrice: 130,
     category: "rice",
-    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1536392139656-3ee2fbead42a?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -270,6 +350,66 @@ const menuItems = [
     price: 180,
     category: "rice",
     image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Mushroom Fried Rice",
+    description: "Delicious stir-fried Chinese rice cooked with fresh button mushrooms, garlic cloves, and chopped green onions.",
+    price: 160,
+    halfPrice: 90,
+    category: "rice",
+    image: "https://images.unsplash.com/photo-1623653387945-2fd25214f8fc?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Schezwan Egg Fried Rice",
+    description: "Spicy Schezwan rice wok-tossed with multiple scrambled eggs, sliced bell peppers, cabbage, and red chili sauce.",
+    price: 160,
+    halfPrice: 90,
+    category: "rice",
+    image: "https://images.unsplash.com/photo-1536392139656-3ee2fbead42a?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Chicken Burnt Garlic Rice",
+    description: "Aromatic fried rice loaded with crispy golden burnt garlic flakes, tender chicken bites, and fresh green onions.",
+    price: 190,
+    halfPrice: 110,
+    category: "rice",
+    image: "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Veg Burnt Garlic Rice",
+    description: "A fragrant wok-style rice tossed with plenty of crispy golden garlic, baby corn, fresh broccoli, and sweet carrots.",
+    price: 160,
+    halfPrice: 90,
+    category: "rice",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Singapore Fried Rice",
+    description: "Aromatic curry-scented Chinese fried rice prepared with broccoli, fresh beans, cashew nuts, and sweet raisins.",
+    price: 180,
+    halfPrice: 100,
+    category: "rice",
+    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Shanghai Fried Rice",
+    description: "Cantonese dark-soy fried rice tossed with tender mushrooms, sweet green peas, spring sprouts, and local spices.",
+    price: 180,
+    halfPrice: 100,
+    category: "rice",
+    image: "https://images.unsplash.com/photo-1608897013039-887f21d8c804?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -442,7 +582,7 @@ const menuItems = [
     price: 150,
     halfPrice: 80,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -452,7 +592,7 @@ const menuItems = [
     price: 170,
     halfPrice: 90,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -462,7 +602,7 @@ const menuItems = [
     price: 200,
     halfPrice: 120,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&q=80&w=600",
     isSignature: true,
     isAvailable: true
   },
@@ -472,7 +612,7 @@ const menuItems = [
     price: 240,
     halfPrice: 140,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -482,7 +622,7 @@ const menuItems = [
     price: 280,
     halfPrice: 150,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -492,7 +632,7 @@ const menuItems = [
     price: 240,
     halfPrice: 140,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -512,7 +652,7 @@ const menuItems = [
     price: 280,
     halfPrice: 180,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&q=80&w=600",
     isSignature: true,
     isAvailable: true
   },
@@ -522,7 +662,7 @@ const menuItems = [
     price: 180,
     halfPrice: 100,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -531,7 +671,7 @@ const menuItems = [
     description: "Wok-fried soft noodles tossed with batter-fried chicken nuggets and raw cabbage salad.",
     price: 200,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -540,7 +680,7 @@ const menuItems = [
     description: "Health-focused boiled noodles tossed lightly with olive oil, boiled chicken shreds, and spring onions.",
     price: 100,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -560,7 +700,7 @@ const menuItems = [
     price: 150,
     halfPrice: 80,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -570,7 +710,7 @@ const menuItems = [
     price: 180,
     halfPrice: 100,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&q=80&w=600",
     isSignature: true,
     isAvailable: true
   },
@@ -580,7 +720,7 @@ const menuItems = [
     price: 220,
     halfPrice: 120,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -610,7 +750,7 @@ const menuItems = [
     price: 220,
     halfPrice: 120,
     category: "noodles",
-    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   },
@@ -620,6 +760,76 @@ const menuItems = [
     price: 180,
     category: "noodles",
     image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Shanghai Pan-Fried Noodles",
+    description: "Crispy pan-fried noodles topped with stir-fried Chinese vegetables and mushrooms in a dark savory sauce.",
+    price: 170,
+    halfPrice: 90,
+    category: "noodles",
+    image: "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Chicken Chilli Garlic Noodles",
+    description: "Spicy noodles stir-fried with fragrant garlic cloves, green chillies, chicken shreds, and dark vinegar soy sauce.",
+    price: 170,
+    halfPrice: 95,
+    category: "noodles",
+    image: "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Veg Chilli Garlic Noodles",
+    description: "Spicy wok-tossed noodles packed with a strong flavor of garlic, red chilli flakes, and shredded vegetables.",
+    price: 150,
+    halfPrice: 85,
+    category: "noodles",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Chicken Dan Dan Noodles",
+    description: "Authentic Sichuan street-style noodles served in a savory, spicy, nutty sesame sauce with minced chicken chunks.",
+    price: 210,
+    halfPrice: 120,
+    category: "noodles",
+    image: "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Veg Dan Dan Noodles",
+    description: "Sichuan style noodles with savory soy-minced tofu and green onions in a spicy, nutty sesame sauce.",
+    price: 180,
+    halfPrice: 100,
+    category: "noodles",
+    image: "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Chicken Singapore Rice Noodles",
+    description: "Thin vermicelli rice noodles stir-fried with fragrant yellow curry powder, chicken strips, egg, and fresh bell peppers.",
+    price: 180,
+    halfPrice: 100,
+    category: "noodles",
+    image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+    isSignature: false,
+    isAvailable: true
+  },
+  {
+    name: "Veg Singapore Rice Noodles",
+    description: "Delicate vermicelli noodles tossed in rich curry powder with cabbage, carrots, bell peppers, and bean sprouts.",
+    price: 160,
+    halfPrice: 90,
+    category: "noodles",
+    image: "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&q=80&w=600",
     isSignature: false,
     isAvailable: true
   }

@@ -3,8 +3,8 @@
     "_id": "mock_user_admin",
     "name": "Apna Admin",
     "email": "admin@apnarestaurant.com",
-    "password": "$2a$10$cwuLf4Szeuq2gClpREB5AeWGL4dBR9IJP3RWCL9ZZQAUulC2zQFSO",
+    "password": "$2a$10$DOmTD7TKXuSl/r/3rk3pKuklaHSw27MA9bTX8yTa7TY1/ysh6egPW",
     "role": "admin",
-    "createdAt": "2026-06-14T12:59:21.243Z"
+    "createdAt": "2026-06-22T03:35:47.565Z"
   }
 ]
